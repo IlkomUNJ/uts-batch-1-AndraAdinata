@@ -1,0 +1,25 @@
+<resources>
+    <!-- app name -->
+    <string name="uts_app_batch1">MyApp</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Layar Masuk</string>
+    <string name="username_hint">Nama Pengguna</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_error">Nama pengguna atau kata sandi salah</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Daftar Siswa</string>
+    <string name="add_student">Tambah Siswa</string>
+
+    <!-- Add Student Screen -->
+    <string name="add_student_title">Form Tambah Siswa</string>
+    <string name="student_id_hint">ID Siswa</string>
+    <string name="student_name_hint">Nama Siswa</string>
+    <string name="student_phone_hint">Nomor Telepon</string>
+    <string name="student_address_hint">Alamat</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_success">Siswa berhasil ditambahkan</string>
+    <string name="register_error">ID dan Nama wajib diisi</string>
+</resources>

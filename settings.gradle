@@ -1,0 +1,2 @@
+rootProject.name = "uts-batch-1-AndraAdinata"
+include(":app")
